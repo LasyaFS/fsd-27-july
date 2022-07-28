@@ -1,4 +1,4 @@
 Hello First class of GITHUB
 welcome to the first class of git
-new line
+
 second change
